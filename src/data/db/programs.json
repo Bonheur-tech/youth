@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "program:1",
+    "title": "Digital Literacy and Capability Development",
+    "short": "Building foundational digital skills for the modern world.",
+    "image": "home1.jpg",
+    "long": "This program equips young Rwandans with essential digital skills — from computer basics, internet literacy, productivity tools, to coding fundamentals. Participants gain hands-on experience through guided projects, preparing them for further specialization and real-world opportunities in the digital economy.",
+    "highlights": [
+      "Computer & internet fundamentals",
+      "Microsoft Office & Google Workspace",
+      "Intro to coding (HTML, CSS, JS)",
+      "Digital safety & responsible use"
+    ]
+  },
+  {
+    "_id": "program:2",
+    "title": "Career Guidance",
+    "short": "Guiding young minds toward meaningful careers in tech.",
+    "image": "home2.jpg",
+    "long": "Our Career Guidance program helps young people discover their strengths, explore tech career paths, and build a clear roadmap. Through mentorship, workshops, CV reviews, and industry exposure, participants gain the confidence and direction needed to launch successful careers.",
+    "highlights": [
+      "1-on-1 mentorship sessions",
+      "CV, LinkedIn & portfolio reviews",
+      "Industry guest speakers",
+      "Internship & job placement support"
+    ]
+  }
+]

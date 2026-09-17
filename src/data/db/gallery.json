@@ -1,0 +1,8 @@
+[
+  { "_id": "gallery:1", "image": "https://picsum.photos/seed/yf1/600/600", "title": "Bootcamp 2024" },
+  { "_id": "gallery:2", "image": "https://picsum.photos/seed/yf2/600/600", "title": "Hackathon" },
+  { "_id": "gallery:3", "image": "https://picsum.photos/seed/yf3/600/600", "title": "Mentorship" },
+  { "_id": "gallery:4", "image": "https://picsum.photos/seed/yf4/600/600", "title": "Demo Day" },
+  { "_id": "gallery:5", "image": "https://picsum.photos/seed/yf5/600/600", "title": "Workshop" },
+  { "_id": "gallery:6", "image": "https://picsum.photos/seed/yf6/600/600", "title": "Community" }
+]

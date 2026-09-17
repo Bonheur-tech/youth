@@ -1,0 +1,14 @@
+[
+  {
+    "_id": "home:1",
+    "image": "home1.jpg",
+    "title": "Code Innovation Workshop",
+    "desc": "Building the next generation of African developers."
+  },
+  {
+    "_id": "home:2",
+    "image": "home2.jpg",
+    "title": "Foundry Innovation Lab",
+    "desc": "Where ideas turn into real, working products."
+  }
+]

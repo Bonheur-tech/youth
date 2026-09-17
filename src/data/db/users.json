@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "user:1",
+    "email": "ishimwebon3366@gmail.com",
+    "password": "foundry2025",
+    "name": "Bonheur Ishimwe",
+    "role": "admin",
+    "avatar": null,
+    "joined": "2024-01-15"
+  },
+  {
+    "_id": "user:2",
+    "email": "member@youthfoundry.rw",
+    "password": "member123",
+    "name": "Demo Member",
+    "role": "member",
+    "avatar": null,
+    "joined": "2025-03-10"
+  }
+]

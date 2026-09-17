@@ -1,0 +1,15 @@
+{
+  "_id": "dashboard:stats",
+  "stats": [
+    { "label": "Members", "value": 232, "trend": "+12%" },
+    { "label": "Programs", "value": 2, "trend": "0%" },
+    { "label": "Events", "value": 14, "trend": "+8%" },
+    { "label": "Messages", "value": 5, "trend": "+3" }
+  ],
+  "activities": [
+    { "id": 1, "text": "New member joined the Digital Literacy program", "time": "2h ago" },
+    { "id": 2, "text": "Career Guidance workshop scheduled for Friday", "time": "5h ago" },
+    { "id": 3, "text": "Bootcamp 2024 gallery updated", "time": "1d ago" },
+    { "id": 4, "text": "New contact message received", "time": "2d ago" }
+  ]
+}

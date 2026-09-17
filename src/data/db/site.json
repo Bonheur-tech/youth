@@ -1,0 +1,17 @@
+{
+  "_id": "site:main",
+  "name": "Youth Foundry Rwanda",
+  "tagline": "Building Rwanda's next generation of thinkers and doers.",
+  "description": "We equip students with Digital Literacy and Capability Development, and guide young candidates toward real careers.",
+  "contact": {
+    "email": "ishimwebon3366@gmail.com",
+    "phone": "+250 794 524 271",
+    "location": "Kigali, Rwanda"
+  },
+  "nav": [
+    { "id": "home", "label": "Home" },
+    { "id": "gallery", "label": "Gallery" },
+    { "id": "programs", "label": "Programs" },
+    { "id": "contact", "label": "Contact" }
+  ]
+}
